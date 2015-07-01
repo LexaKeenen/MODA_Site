@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'klinicslabbook';
+	src: url('klinicslabbook-webfont.eot');
+	src: url('klinicslabbook-webfont.eot?#iefix') format('embedded-opentype'),
+		url('klinicslabbook-webfont.woff') format('woff'),
+		url('klinicslabbook-webfont.ttf') format('truetype'),
+		url('klinicslabbook-webfont.svg') format('svg');
+}
